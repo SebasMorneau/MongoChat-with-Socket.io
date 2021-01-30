@@ -1,0 +1,23 @@
+{
+  "name": "mongochat-with-socket.io",
+  "version": "1.0.0",
+  "description": "Simple chat app using sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasMorneau/MongoChat-with-Socket.io.git"
+  },
+  "author": "SebasMorneau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebasMorneau/MongoChat-with-Socket.io/issues"
+  },
+  "homepage": "https://github.com/SebasMorneau/MongoChat-with-Socket.io#readme",
+  "dependencies": {
+    "mongodb": "^3.2.7",
+    "socket.io": "^2.2.0"
+  }
+}
